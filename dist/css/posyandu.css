@@ -1,0 +1,14 @@
+.brand-link span.brand-text{
+    color: #FFFFFF;
+}
+
+.btn-add {
+    margin-bottom: 10px;
+    margin-left: 4px;
+}
+
+
+/*data table css*/
+.pull-right {
+    padding-left: 250px;
+}
